@@ -11,6 +11,3 @@ Movie data, Movie credits data (https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 
 User Movie Rating Data: I have used a different dataset for this Collaborative filtering, which can be found at 
 https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system/data?select=ratings_small.csv
-
-![image](https://user-images.githubusercontent.com/94488788/156099069-73484980-cb85-4988-9ad4-16d949407d61.png)
-
